@@ -1,0 +1,16 @@
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\bin\Debug\net5.0\DIO.sertes.exe
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\bin\Debug\net5.0\DIO.sertes.deps.json
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\bin\Debug\net5.0\DIO.sertes.runtimeconfig.json
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\bin\Debug\net5.0\DIO.sertes.runtimeconfig.dev.json
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\bin\Debug\net5.0\DIO.sertes.dll
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\bin\Debug\net5.0\ref\DIO.sertes.dll
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\bin\Debug\net5.0\DIO.sertes.pdb
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\obj\Debug\net5.0\DIO.sertes.csproj.AssemblyReference.cache
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\obj\Debug\net5.0\DIO.sertes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\obj\Debug\net5.0\DIO.sertes.AssemblyInfoInputs.cache
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\obj\Debug\net5.0\DIO.sertes.AssemblyInfo.cs
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\obj\Debug\net5.0\DIO.sertes.csproj.CoreCompileInputs.cache
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\obj\Debug\net5.0\DIO.sertes.dll
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\obj\Debug\net5.0\ref\DIO.sertes.dll
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\obj\Debug\net5.0\DIO.sertes.pdb
+C:\Users\rande\OneDrive\Área de Trabalho\DIO.sertes\obj\Debug\net5.0\DIO.sertes.genruntimeconfig.cache
